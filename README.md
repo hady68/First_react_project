@@ -1,3 +1,4 @@
+<img width="550" alt="ReactFacts" src="https://user-images.githubusercontent.com/64458111/156932630-3e55b553-5e1f-49a4-aef1-74412e1b022c.png">
 
 
 Quick start:
